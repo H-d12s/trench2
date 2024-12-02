@@ -18,6 +18,7 @@ public class divermove : MonoBehaviour
         myBody = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         sr = GetComponent<SpriteRenderer>();
+        
 
     }
 
